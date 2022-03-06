@@ -1,28 +1,27 @@
 #!/bin/sh
 
 brew install bat
-brew install exa
-brew install lsd
-brew install git-delta
-brew install dust
-brew install duf
-brew install broot
-brew install fd
-brew install ripgrep
-brew install the_silver_searcher
-brew install fzf
-brew install mcfly
-brew install choose-rust
-brew install jq
-brew install sd
 brew install bottom
+brew install broot
+brew install choose-rust
+brew install dog
+brew install duf
+brew install dust
+brew install exa
+brew install fd
+brew install fzf
+brew install git-delta
 brew install glances
-brew install hyperfine
 brew install gping
-brew install procs
 brew install httpie
+brew install hyperfine
+brew install jq
+brew install lsd
+brew install mcfly
+brew install procs
+brew install ripgrep
 brew install rs/tap/curlie
+brew install sd
+brew install the_silver_searcher
 brew install xh
 brew install zoxide
-brew install dog
-
