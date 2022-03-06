@@ -1,6 +1,7 @@
 #!/bin/sh
 
 softwareupdate --all --install
+softwareupdate --install-rosetta --agree-to-license
 
 xcode-select --install
 
