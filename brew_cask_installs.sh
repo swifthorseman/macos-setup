@@ -11,6 +11,7 @@ brew install --cask font-hack-nerd-font
 brew install --cask istat-menus
 brew install --cask iterm2
 brew install --cask libreoffice
+brew install --cask mactex
 brew install --cask protonvpn
 brew install --cask visual-studio-code
 brew install --cask zoom
