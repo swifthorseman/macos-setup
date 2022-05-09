@@ -5,6 +5,8 @@ brew tap homebrew/cask-fonts
 brew install --cask 1password
 brew install --cask atom
 brew install --cask authy
+brew install --cask brave-browser
+brew install --cask bluejeans
 brew install --cask dropbox
 brew install --cask drawio
 brew install --cask firefox
