@@ -1,0 +1,17 @@
+1password
+atom
+authy
+brave-browser
+bluejeans
+dropbox
+drawio
+firefox
+font-hack-nerd-font
+istat-menus
+iterm2
+libreoffice
+mactex
+protonvpn
+visual-studio-code
+wacom-inkspace
+zoom
