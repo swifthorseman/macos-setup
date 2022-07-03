@@ -7,4 +7,5 @@ brew install minikube
 brew install pipenv
 brew install structurizr-cli
 brew install tmux
+brew install tree
 
