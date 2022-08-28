@@ -12,6 +12,7 @@ istat-menus
 iterm2
 libreoffice
 mactex
+openmsx
 protonvpn
 visual-studio-code
 wacom-inkspace
