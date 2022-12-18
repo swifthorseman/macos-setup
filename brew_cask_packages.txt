@@ -1,6 +1,8 @@
 1password
+adobe-creative-cloud-cleaner-tool
 authy
 brave-browser
+carbon-copy-cloner
 dropbox
 drawio
 firefox
@@ -12,6 +14,7 @@ libreoffice
 mactex
 openmsx
 protonvpn
+sqlectron
 visual-studio-code
 wacom-inkspace
 zoom
