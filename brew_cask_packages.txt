@@ -1,8 +1,6 @@
 1password
-atom
 authy
 brave-browser
-bluejeans
 dropbox
 drawio
 firefox
