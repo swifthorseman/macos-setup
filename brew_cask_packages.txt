@@ -1,5 +1,7 @@
 1password
+adobe-creative-cloud
 adobe-creative-cloud-cleaner-tool
+app-cleaner
 authy
 brave-browser
 carbon-copy-cloner
