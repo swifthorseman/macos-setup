@@ -1,0 +1,16 @@
+avro-tools
+awscli
+coursier/formulas/coursier
+docker
+gpg
+jhead
+kafka
+kcat
+minikube
+openjdk@8
+pipenv
+sbt
+structurizr-cli
+tmux
+tree
+vlc
