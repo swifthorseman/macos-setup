@@ -4,10 +4,12 @@ adobe-creative-cloud-cleaner-tool
 authy
 brave-browser
 carbon-copy-cloner
+docker
 dropbox
 drawio
 firefox
 font-hack-nerd-font
+insomnia
 intellij-idea-ce
 istat-menus
 iterm2
