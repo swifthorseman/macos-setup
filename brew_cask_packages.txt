@@ -17,6 +17,7 @@ libreoffice
 maccleaner-pro
 mactex
 openmsx
+postico
 protonvpn
 sqlectron
 visual-studio-code
