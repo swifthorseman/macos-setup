@@ -19,6 +19,7 @@ mactex
 openmsx
 postico
 protonvpn
+redisinsight
 sqlectron
 visual-studio-code
 wacom-inkspace
