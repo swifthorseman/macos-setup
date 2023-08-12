@@ -4,6 +4,7 @@ adobe-creative-cloud-cleaner-tool
 authy
 brave-browser
 carbon-copy-cloner
+discord
 docker
 dropbox
 drawio
