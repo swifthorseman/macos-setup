@@ -1,5 +1,6 @@
 avro-tools
 awscli
+aws/tap/aws-sam-cli
 coursier/formulas/coursier
 docker
 gpg
