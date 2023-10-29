@@ -1,6 +1,7 @@
 1password
 adobe-creative-cloud
 adobe-creative-cloud-cleaner-tool
+amazon-chime
 authy
 brave-browser
 carbon-copy-cloner
@@ -11,9 +12,11 @@ drawio
 firefox
 font-hack-nerd-font
 insomnia
+insta360-studio
 intellij-idea-ce
 istat-menus
 iterm2
+kindle
 libreoffice
 maccleaner-pro
 mactex
