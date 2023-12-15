@@ -25,6 +25,7 @@ postico
 protonvpn
 redisinsight
 sqlectron
+virtualbox
 visual-studio-code
 wacom-inkspace
 zoom
