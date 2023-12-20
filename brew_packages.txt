@@ -1,6 +1,7 @@
 avro-tools
 awscli
 aws/tap/aws-sam-cli
+chruby
 coursier/formulas/coursier
 docker
 go
@@ -11,8 +12,10 @@ kcat
 minikube
 openjdk@8
 pipenv
+ruby-install
 sbt
 structurizr-cli
 tmux
 tree
 vlc
+xz
