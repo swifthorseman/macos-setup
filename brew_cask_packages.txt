@@ -20,6 +20,7 @@ kindle
 libreoffice
 maccleaner-pro
 mactex
+netnewswire
 openmsx
 postico
 protonvpn
