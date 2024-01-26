@@ -10,6 +10,7 @@ jhead
 kafka
 kcat
 minikube
+node
 openjdk@8
 pipenv
 ruby-install
