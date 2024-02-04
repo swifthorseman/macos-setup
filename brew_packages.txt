@@ -4,6 +4,7 @@ aws/tap/aws-sam-cli
 chruby
 coursier/formulas/coursier
 docker
+ghcup
 go
 gpg
 jhead
