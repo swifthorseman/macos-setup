@@ -21,4 +21,5 @@ tfenv
 tmux
 tree
 vlc
+watch
 xz
