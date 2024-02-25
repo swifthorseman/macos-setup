@@ -20,6 +20,7 @@ kindle
 libreoffice
 maccleaner-pro
 mactex
+microsoft-teams
 netnewswire
 openmsx
 postico
