@@ -17,6 +17,7 @@ pipenv
 ruby-install
 sbt
 structurizr-cli
+tfenv
 tmux
 tree
 vlc
