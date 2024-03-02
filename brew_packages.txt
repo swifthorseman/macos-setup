@@ -11,6 +11,7 @@ jhead
 kafka
 kcat
 minikube
+neovim
 node
 openjdk@8
 pipenv
