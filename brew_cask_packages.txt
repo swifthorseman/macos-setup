@@ -16,6 +16,7 @@ insta360-studio
 intellij-idea-ce
 istat-menus
 iterm2
+jupyterlab
 kindle
 libreoffice
 maccleaner-pro
