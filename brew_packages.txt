@@ -18,6 +18,7 @@ pipenv
 ruby-install
 sbt
 structurizr-cli
+tesseract
 tfenv
 tmux
 tree
