@@ -5,6 +5,7 @@ amazon-chime
 authy
 brave-browser
 carbon-copy-cloner
+chatgpt
 discord
 docker
 dropbox
